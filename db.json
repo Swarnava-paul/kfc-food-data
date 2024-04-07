@@ -1,7 +1,35 @@
 {
     "foods":[
+       [
+        {"head":"PERI PERI CHICKEN"},
         {
-            "id":1
+        "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xs/D-PR00002144.jpg?ver=41.47",
+        "title":"5 Leg Pc & 2 Dips Bucket",
+        "type":"Non veg",
+        "price":519.05,
+        "description":"Save Rs. 120 on 5 Peri Peri Leg Pieces, paired with 2 delicious dips (20gm each)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002319.jpg?ver=41.47",
+            "title":"PERI PERI 10 Pc Chicken Strips & 2 Dips",
+            "type":"Non veg",
+            "price":499.05,
+            "description":"Save 24% on 10 Spicy Peri Peri chicken boneless strips with 2 Dips"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002141.jpg?ver=41.47",
+            "title":"Peri Peri 10 Leg Pc & 4 Dips",
+            "type":"Non veg",
+            "price":948.57,
+            "description":"Save Rs. 334 on 10 Peri Peri Leg Pieces & 4 Dips (20 gm each)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002158.jpg?ver=41.47",
+            "title":"Peri Peri 6pc Chicken Strips",
+            "type":"Non veg",
+            "price":299.05,
+            "description":"Save 16% on 6 Spicy Peri Peri chicken boneless strips"
         }
+       ]
     ]
 }
